@@ -9,5 +9,4 @@ fn main() {
     }
 
     println!("The value of x is: {x}");
-    println!("end of code");
 }
